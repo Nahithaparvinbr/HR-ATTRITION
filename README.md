@@ -1,1 +1,4 @@
-# HR-ATTRITION
+# Employee Attrition Prediction Model
+
+project focuses on building an Employee Attrition Prediction Model to identify employees who are likely to leave the organization. In this project, HR employee data was analyzed using Python and machine learning techniques. Data preprocessing, cleaning, and exploratory data analysis were performed to understand key factors affecting attrition such as job role, salary, work experience, overtime, and job satisfaction.
+Different classification algorithms were applied to build the prediction model, and performance was evaluated using accuracy and confusion matrix. The model helps HR teams identify at-risk employees in advance and take preventive actions to improve retention. This project enhanced my skills in data analysis, machine learning, HR analytics, and predictive modeling using dummy data.
